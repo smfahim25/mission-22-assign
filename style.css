@@ -99,13 +99,14 @@ p{
     background-size: 20%;
 }
 .contact{
-    font-size: 35px;
+    font-size: 30px;
     background-color: orangered;
     color: white;
-    border-radius: 20px;
+    border-radius: 10px;
     text-align: center;
     margin-left: 35%;
     margin-right: 35%;
+    padding: 10px 50px;
 }
 .flex{
     display: flex;
@@ -121,6 +122,10 @@ p{
 }
 .para p{
     font-size: 20px;
+}
+.padding{
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 .footer{
     height: 177px;
