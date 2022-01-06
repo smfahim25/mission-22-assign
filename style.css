@@ -8,7 +8,7 @@ body{
     padding-top: 10%;
 }
 .left-border{
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Vidaloka', serif;
 }
 .orange-color{
@@ -43,4 +43,127 @@ body{
 p{
     margin-top: 10%;
     margin-bottom: 10%;
+    color: dimgray;
 }
+.mission-title{
+    font-size: 45px;
+    color: rgb(5, 5, 65);
+    text-align: center;
+    font-weight: 900;
+}
+.box-part{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.mission-box{
+    padding: 2%;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: rgba(72, 159, 167, 0.1);
+}
+.mission-box img{
+    width: 30%;
+}
+.vission{
+    background-color: rgba(243, 77, 77, 0.1);
+}
+.goal{
+    background-color: hsl(44, 84%, 88%);
+}
+.develop-part{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 7%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+.develop-img img{
+    width: 80%;
+}  
+.text-part h1{
+    font-size: 36px;
+    line-height: 80%;
+}
+.image-bg img{
+    width: 75%;
+    padding-left: 30%;
+}
+.backround{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20%;
+}
+.contact{
+    font-size: 35px;
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.flex{
+    display: flex;
+}
+.location{
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 5px 20px gray;
+    margin-left: 10px;
+    padding: 15px;
+    border-radius:10px;
+    width: 30%;
+}
+.phone{
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 5px 20px gray;
+    margin-left: 10px;
+    padding: 15px;
+    border-radius:10px;
+    width: 30%;
+}
+.email{
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 5px 20px gray;
+    margin-left: 10px;
+    padding: 15px;
+    border-radius:10px;
+    width: 30%;
+}
+.location p{
+    font-size: 20px;
+}
+.phone p{
+    font-size: 20px;
+}
+.email p{
+    font-size: 20px;
+}
+.footer{
+    height: 177px;
+    background-color:#0B0D17 ;
+    text-align: center;
+}
+.footer h1{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 40px;
+    padding-top: 4%;
+    font-weight: 500;
+    line-height: 50%;
+}
+.footer h3{
+    color:white;
+    font-weight: 400;
+    font-size: 15px
+}
+.foot{
+    color: orangered;
+}        
