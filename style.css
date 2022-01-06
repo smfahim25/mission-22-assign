@@ -98,16 +98,6 @@ p{
     background-position: right;
     background-size: 20%;
 }
-.contact{
-    font-size: 30px;
-    background-color: orangered;
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    margin-left: 35%;
-    margin-right: 35%;
-    padding: 10px 50px;
-}
 .flex{
     display: flex;
 }
